@@ -1,0 +1,116 @@
+{
+  "coffees": [
+    {
+      "id": "0",
+      "title": "Традиционный экспресс",
+      "description": "Традиционный кофе, приготовленный из горячей воды и молотых зерен.",
+      "tags": ["tradicional"],
+      "price": 9.9,
+      "image": "/coffees/expresso.png"
+    },
+    {
+      "id": "1",
+      "title": "Экспрессо Американо",
+      "description": "Разбавленный эспрессо, менее насыщенный, чем традиционный эспрессо",
+      "tags": ["tradicional"],
+      "price": 9.9,
+      "image": "/coffees/americano.png"
+    },
+    {
+      "id": "2",
+      "title": "Сливочный эспрессо",
+      "description": "Традиционный эспрессо со сливочной пенкой",
+      "tags": ["tradicional"],
+      "price": 9.9,
+      "image": "/coffees/expressoCremoso.png"
+    },
+    {
+      "id": "3",
+      "title": "Эспрессо со льдом",
+      "description": "Напиток из кофе эспрессо и кубиков льда",
+      "tags": ["tradicional", "gelado"],
+      "price": 9.9,
+      "image": "/coffees/cafeGelado.png"
+    },
+    {
+      "id": "4",
+      "title": "Кофе с молоком",
+      "description": "Традиционный эспрессо с половиной и половиной порции с парным молоком",
+      "tags": ["tradicional", "com leite"],
+      "price": 9.9,
+      "image": "/coffees/cafeComLeite.png"
+    },
+    {
+      "id": "5",
+      "title": "Латте",
+      "description": "Порция эспрессо с удвоенным количеством молока и сливочной пеной",
+      "tags": ["tradicional", "com leite"],
+      "price": 9.9,
+      "image": "/coffees/latte.png"
+    },
+    {
+      "id": "6",
+      "title": "Капучино",
+      "description": "Напиток с корицей, приготовленный из равных доз кофе, молока и пены",
+      "tags": ["tradicional", "com leite"],
+      "price": 9.9,
+      "image": "/coffees/capuccino.png"
+    },
+    {
+      "id": "7",
+      "title": "Маккиато",
+      "description": "Эспрессо, смешанный с небольшим количеством горячего молока и пеной",
+      "tags": ["tradicional", "com leite"],
+      "price": 9.9,
+      "image": "/coffees/macchiato.png"
+    },
+    {
+      "id": "8",
+      "title": "Мокачино",
+      "description": "Эспрессо, смешанный с небольшим количеством горячего молока и пеной",
+      "tags": ["tradicional", "com leite"],
+      "price": 9.9,
+      "image": "/coffees/mochaccino.png"
+    },
+    {
+      "id": "9",
+      "title": "Шоколад Квенте",
+      "description": "Напиток из шоколада, растворенного в горячем молоке и кофе",
+      "tags": ["especial", "com leite"],
+      "price": 9.9,
+      "image": "/coffees/chocolateQuente.png"
+    },
+    {
+      "id": "10",
+      "title": "Кубинская",
+      "description": "Напиток эспрессо с ромом, сливками и мятой",
+      "tags": ["especial", "alcoólico", "gelado"],
+      "price": 9.9,
+      "image": "/coffees/cubano.png"
+    },
+    {
+      "id": "11",
+      "title": "Гавайи",
+      "description": "Подслащенный напиток из кофе и кокосового молока",
+      "tags": ["especial"],
+      "price": 9.9,
+      "image": "/coffees/havaiano.png"
+    },
+    {
+      "id": "12",
+      "title": "Арабский",
+      "description": "Напиток, приготовленный из зерен арабского кофе и специй",
+      "tags": ["especial"],
+      "price": 9.9,
+      "image": "/coffees/arabe.png"
+    },
+    {
+      "id": "13",
+      "title": "Ирландский",
+      "description": "Напиток из кофе, ирландского виски, сахара и взбитых сливок",
+      "tags": ["especial", "alcoólico"],
+      "price": 9.9,
+      "image": "/coffees/irlandes.png"
+    }
+  ]
+}
